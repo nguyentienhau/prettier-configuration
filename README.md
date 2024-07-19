@@ -4,7 +4,7 @@
 
     npm install prettier --save-dev
 
-## Configuration File
+## Configuration Files
 
     .prettierrc.json
     .prettierignore
